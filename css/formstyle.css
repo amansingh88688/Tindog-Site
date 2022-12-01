@@ -1,0 +1,46 @@
+body{
+    background-color:#ff4c68;
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+
+h1{
+    font-family: "Ubuntu";
+    font-weight: 600;
+    margin-left: 13%;
+    margin-top:5%;
+    margin-bottom: 3%
+    
+}
+
+.signup-form{
+    margin:2% 13% 13% 10%;
+}
+.state-lbl{
+    padding-top: 40px;
+    text-align: center;
+
+}
+
+.each-divi{
+    margin: 10px 10px 10px 10px;
+}
+
+.btn:hover{
+    color:black;
+    background-color: white;
+}
+.submit-but{
+    padding-top: 2%;
+    padding-left: 25%;
+}
+
+p{
+    padding-left: 50%;
+}
+a{
+    color:rgb(255, 255, 255);
+}
+a:hover{
+    color:rgb(0, 0, 0);
+}
